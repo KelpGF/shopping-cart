@@ -5,7 +5,7 @@ import store from './store';
 
 // Styles imports
 import PrimeVueComponents from './plugins/primevue';
-import 'primevue/resources/themes/tailwind-light/theme.css';
+import 'primevue/resources/themes/lara-dark-indigo/theme.css';
 import 'primevue/resources/primevue.min.css';
 import 'primeicons/primeicons.css';
 import 'primeflex/primeflex.css';
